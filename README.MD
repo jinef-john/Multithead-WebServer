@@ -19,6 +19,9 @@
  --> Example `Enter Port Number: 12345`
  --> Example `Enter File Name: sample.txt`
 
+## Output
+![alt text](Output.png "Output")
+
 ## Description: 
 - The Web Server and Web Client communicate using a text-based protocol called HTTP.
 - The server being multi-threaded will be able to handle multiple requests concurrently. 
