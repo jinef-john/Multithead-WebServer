@@ -1,0 +1,7 @@
+****************************************************************************************************
+This is the server response to the client request. The server response is sent to the client in the 
+form of a response message. The response message contains the status code and the response body. The 
+status code is a three-digit number that indicates the status of the response. 
+The response body is the actual data that is sent to the client. The response body can be in any format, 
+such as HTML, XML, JSON, or plain text.
+****************************************************************************************************
